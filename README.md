@@ -27,5 +27,6 @@ Olá, Sou Lucas Ramalho 🇧🇷 👋🏾
 
 <div style="display: inline_block"><br>
     <a href="https://www.linkedin.com/in/lucasramalhon/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href = "mailto:lucas_ramalho@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
+    <a href = "mailto:lucas_ramalhon@hotmail.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&amp;logo=microsoft-outlook&amp;logoColor=white" target="_blank"></a>
+   <a href = "https://api.whatsapp.com/send?phone=5519994460406&text=Ol%C3%A1!%20Fique%20a%20vontade%20para%20me%20enviar%20uma%20mensagem!"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" target="_blank"></a>
+ 
