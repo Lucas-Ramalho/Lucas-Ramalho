@@ -8,7 +8,7 @@ Olá, Sou Lucas Ramalho 🇧🇷 👋🏾
 
 - 📚 Estudando na Digital House - Certified Tech Developer
 
-- 📈 Adoro a linguagem Python e seu poder para a análise de dados
+- 📈 Entusiasta da Análise de Dados e Automação
 
 
 
