@@ -2,7 +2,7 @@ Olá, Sou Lucas Ramalho 🇧🇷 👋🏾
 
 <br />
 
- Piracicabano, 27 anos, Formado em Economia 👨🏾‍🎓 . Apaixonado por Programação 💻
+ Piracicabano, 27 anos, Formado em Economia 👨🏾‍🎓 . Mergulhando no mundo da Programação 💻
 
 ** Sobre mim **
 
