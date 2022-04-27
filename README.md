@@ -8,7 +8,7 @@ Olá, Sou Lucas Ramalho 🇧🇷 👋🏾
 
 - 📚 Estudando na Digital House - Certified Tech Developer
 
-- 📈 Entusiasta da Análise de Dados e Automação
+
 
 
 
